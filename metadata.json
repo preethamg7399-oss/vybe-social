@@ -1,0 +1,6 @@
+{
+  "name": "VYBE",
+  "description": "An electric editorial social media experience for visual storytellers and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
